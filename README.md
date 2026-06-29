@@ -9,7 +9,7 @@ make more.
 
 ## Skills
 
-**why-stack**: Interrogates a feature or product request before building it. It
+**why-hole**: Interrogates a feature or product request before building it. It
 walks you down your own stack of "why"s until the foundational need turns up,
 then puts a deeper solution against your original idea as a foil, and leaves the
 decision to you. It came out of a blog post arguing that nobody really wants a
